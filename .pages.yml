@@ -4,3 +4,8 @@ content:
     path: _posts
     type: collection
     fields: ~
+  - name: pages
+    label: Pages
+    path: _pages
+    type: collection
+    fields: ~
